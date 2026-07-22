@@ -1,15 +1,23 @@
-# Space-Engine-Portfolio
+# 🚀 Space Engine Exploration
 
-This portfolio is dedicated to Space Engine explorations only. I put anything interesting that I find in Space Engine in here. It also shows my love for space and universe.
+## About
 
-# Files
-All files will be named after a project. In those project files, you will find more files if applicable leading to different objects. IT will also contain a README.md file which contains:
-- Info of main system if possible
+This repository contains my exploration projects completed using Space Engine. The aim is to learn more about astronomical objects and develop a better understanding of the universe through simulation.
+
+## Repository Structure
+
+- Exploration Projects/Images&Info
+
+## Each Project Includes
+
+- Information about the object
 - Personal reflection
-- Social Link
+- Date
+- Hypothetical Drawing (if applicable)
 
-If there are more files, it will each contain photos, and a README.md file which will have:
-- Hypothesis
-- Info on object
-- Social Link
+## Goals
+
+- Explore different astronomical objects
+- Learn more about space and astronomy
+- Build my knowledge through exploration
 
