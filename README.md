@@ -15,7 +15,7 @@ This repository contains my exploration projects completed using Space Engine. T
 
 Each README.md file includes:
 - Information about the object
-- Summary of project
+- Summary/Hypothesis
 - Date
 - Personal reflection*
 
