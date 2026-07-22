@@ -6,7 +6,7 @@ This repository contains my exploration projects completed using Space Engine. T
 
 ## Repository Structure
 
-- Exploration Projects/Images&Info
+- Project/Bodies (if applicable)/Images, photos, README.md
 
 ## Each Project Includes
 
