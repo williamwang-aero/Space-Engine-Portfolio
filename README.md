@@ -5,22 +5,8 @@ This portfolio is dedicated to Space Engine explorations only. I put anything in
 #Files
 You will find two files: Photography and Projects
 
-Files in project will be named. Inside each, there will be:
-- Images of the object/s
-- Life concepts if applicable
-- README.md File
+Project files contains my Space Engine exploration projects. They range from finding life to understanding the physics of the universe. The files will contain a README.md, if not, two, which contains all the info on the project. The files will also contain photos. Please read the README.md file first.
 
-Files in photography will be named by date taken. Inside each, there will be:
-- Photos
-- README.md file
-
+The photography files contains my Space Engine photography journey. It will contain photos of the objects I took and a README.md file with the info on the object/s. Please read the README.md file first.
 #README.md
 
-For project section, the README.md file contains:
-- Info on the object/s
-- Description of life if applicable
-- Personal reflection
-
-For photography section, the README.md file contains:
-- Name/info of the object
-- Personal reflection
