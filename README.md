@@ -9,11 +9,15 @@ This repository contains my exploration projects completed using Space Engine. T
 - Project/Bodies (if applicable)/Images, photos, README.md
 
 ## Each Project Includes
+- README.md file
+- Screenshots
+- Photos
 
+Each README.md file includes:
 - Information about the object
-- Personal reflection (outside the bodies)
+- Summary of project
 - Date
-- Hypothetical Drawing (if applicable)
+- Personal reflection*
 
 ## Goals
 
@@ -21,3 +25,4 @@ This repository contains my exploration projects completed using Space Engine. T
 - Learn more about space and astronomy
 - Build my knowledge through exploration
 
+*Please note that for some project files, there are mini files inside which splits the project up into two. Personal reflection will be in the main project README.md file, while summaries will be in each mini file's README.md.
