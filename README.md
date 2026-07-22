@@ -11,7 +11,7 @@ This repository contains my exploration projects completed using Space Engine. T
 ## Each Project Includes
 
 - Information about the object
-- Personal reflection
+- Personal reflection (outside the bodies)
 - Date
 - Hypothetical Drawing (if applicable)
 
