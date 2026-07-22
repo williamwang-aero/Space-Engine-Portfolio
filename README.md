@@ -1,6 +1,6 @@
 # Space-Engine-Portfolio
 
-This portfolio is dedicated to Space Engine explorations only. I put anything interesting that I find in Space Engine in here.
+This portfolio is dedicated to Space Engine explorations only. I put anything interesting that I find in Space Engine in here. It also shows my love for space and universe.
 
 # Files
 All files will be named after a project. In those project files, you will find more files if applicable leading to different objects. IT will also contain a README.md file which contains:
